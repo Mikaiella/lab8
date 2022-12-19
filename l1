@@ -7,6 +7,6 @@ int main()
     setlocale(0,"ukrainian");
     int y = 02022, m = 010, d = 05; 
     //визначаємо та задаємо змінні, y - year, m - month, d - day;
-    printf("Ринденко Є.I.\n%o-%02o-%o", y, m, d); 
+    printf("Є.I.\n%o-%02o-%o", y, m, d); 
     return 0; 
 }
